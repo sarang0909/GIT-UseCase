@@ -1,0 +1,41 @@
+OCR:
+Nitin jain
+
+GIT:
+Aditya tajane
+
+https://persistent.webex.com/persistent/j.php?MTID=m3e6bcc05bccdb0e2650156157e9fdb19
+Meeting number (access code): 645 971 950 
+Meeting password: pyv2PPUj 
+
+links:
+https://medium.freecodecamp.org/the-10-github-repos-people-mention-the-most-in-freecodecamps-main-chat-room-189750600fa4 
+
+Pull Request Prioritizer: With the help of this solution which can provide the core developers with an automatically and 
+intelligently prioritized list of pull requests, they could save a significant amount of time. Especially if there are a 
+lot of open pull requests.
+https://repository.tudelft.nl/islandora/object/uuid:a4df21b6-708b-4c15-a601-45f986a918f5/datastream/OBJ/download
+
+ Who Should Review this Pull-Request: Reviewer Recommendation to Expedite Crowd Collaboration
+http://ieeexplore.ieee.org/document/7091328/?reload=true
+
+Automatically Generating Commit Messages from Diffs using Neural Machine Translation
+https://arxiv.org/pdf/1708.09492v1.pdf
+https://christoph.luppri.ch/articles/code-quality/how-to-automatically-review-your-prs-for-style-violations-with-pronto-and-rubocop/
+
+Pull Request Merge Prediction using Machine Learning
+https://sophilabs.co/blog/pr-prediction-machine-learning
+
+Automated Identification of Security Issues from Commit Messages and Bug Reports
+https://asankhaya.github.io/pdf/automated-identification-of-security-issues-from-commit-messages-and-bug-reports.pdf
+
+A curated list of awesome machine learning frameworks and algorithms that work on top of source code
+https://github.com/src-d/awesome-machine-learning-on-source-code
+
+
+
+
+https://medium.com/google-cloud/analyzing-github-issues-and-comments-with-bigquery-c41410d3308
+
+
+
